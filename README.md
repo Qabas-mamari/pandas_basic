@@ -37,5 +37,5 @@ pandas is an open-source library that provides high-performance, easy-to-use dat
 
 ## files :
 <ol>
-  <li>CH1 : Series and DataFrames, Data Input and Validations, and Basic analysis</li>
+  <li><strong>CH1</strong> : Series and DataFrames, Data Input and Validations, and Basic analysis</li>
 </ol>
