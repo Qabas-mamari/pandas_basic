@@ -35,7 +35,8 @@ pandas is an open-source library that provides high-performance, easy-to-use dat
 <li>Creating your own colormaps</li>
 </ul>
 
-## files :
+## Files :
 <ol>
   <li><strong>CH1</strong> : Series and DataFrames, Data Input and Validations, and Basic analysis</li>
+  <li><strong>CH1 Challenge</strong>: A challengs on CH1 contents.
 </ol>
