@@ -44,3 +44,34 @@ pandas is an open-source library that provides high-performance, easy-to-use dat
   <li><strong>CH5</strong>: Reshaping functions and Challenge.
   <li><strong>CH6</strong>:  Data Visualizations and Challenge. 
 </ol>
+
+## Where to get it
+The source code is currently hosted on GitHub at:
+https://github.com/pandas-dev/pandas
+
+Binary installers for the latest released version are available at the [Python
+Package Index (PyPI)](https://pypi.org/project/pandas) and on [Conda](https://docs.conda.io/en/latest/).
+
+```sh
+# conda
+conda install pandas
+```
+
+```sh
+# or PyPI
+pip install pandas
+```
+## License
+[BSD 3](LICENSE)
+
+## Documentation
+The official documentation is hosted on PyData.org: https://pandas.pydata.org/pandas-docs/stable
+
+## Background
+Work on ``pandas`` started at [AQR](https://www.aqr.com/) (a quantitative hedge fund) in 2008 and
+has been under active development since then.
+
+## Getting Help
+
+For usage questions, the best place to go to is [StackOverflow](https://stackoverflow.com/questions/tagged/pandas).
+Further, general questions and discussions can also take place on the [pydata mailing list](https://groups.google.com/forum/?fromgroups#!forum/pydata).
