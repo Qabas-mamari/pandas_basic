@@ -38,5 +38,9 @@ pandas is an open-source library that provides high-performance, easy-to-use dat
 ## Files :
 <ol>
   <li><strong>CH1</strong> : Series and DataFrames, Data Input and Validations, and Basic analysis</li>
-  <li><strong>CH1 Challenge</strong>: A challengs on CH1 contents.
+  <li><strong>CH2</strong>: Basic Plotting, Plots type, Plot Color, Figsize(), Colormaps and Seaborn basic plotting.
+  <li><strong>CH3</strong>: Indexing functions.
+  <li><strong>CH4</strong>: Groupby, Groupby computations, and Challenge.
+  <li><strong>CH5</strong>: Reshaping functions and Challenge.
+  <li><strong>CH6</strong>:  Data Visualizations and Challenge. 
 </ol>
